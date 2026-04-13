@@ -2,42 +2,67 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Nguyễn%20Trung%20Thịnh&fontSize=65&animation=fadeIn&fontAlignY=45" alt="Header" />
 </div>
 
-## 💫 About Me:
+## 💫 About Me
 
 👋 **Hello, World! I'm @ngtrthinhh (Thịnh Nguyễn).**
 
-💻 **Senior React Native Developer** với hơn 2 năm kinh nghiệm thực chiến. Hiện tại, mình đang tập trung tối ưu hóa hiệu năng ứng dụng Mobile và triển khai kiến trúc **Feature-Sliced Design (FSD)** để xây dựng những hệ thống có khả năng mở rộng cao.
+💻 **Senior Software Engineer & Team Lead** với tư duy phát triển sản phẩm (Product-minded). Mình chuyên thiết kế kiến trúc hệ thống mở rộng với **Feature-Sliced Design (FSD)** và xây dựng các ứng dụng đa nền tảng (Mobile & Web) chất lượng cao.
 
-☕ **A Coffee & Tech Enthusiast:** Giống như một ly cà phê sữa mỗi sáng, mình tin rằng sự kết hợp giữa tư duy logic và sự sáng tạo sẽ tạo ra những trải nghiệm người dùng tuyệt vời nhất. Ngoài code, mình còn là một người đam mê phần cứng PC và các môn thể thao như cầu lông, bóng đá.
+🚀 **Current Focus:**
+- Tối ưu hóa hiệu năng ứng dụng Mobile (React Native, Zustand, MMKV) và phát triển Web Admin Dashboard (Next.js, Tailwind CSS).
+- Tích hợp phần cứng IoT (Smart rings/bands) qua custom Native Modules (Swift/Kotlin) và áp dụng công nghệ AI (Face Scan, Voice Assistant).
+- Đang tiếp tục nghiên cứu chuyên sâu về **Data Analytics & Artificial Intelligence**.
 
-🤝 **Collaboration:** Mình luôn khao khát kết nối và cùng nhau thực hiện các dự án sáng tạo. Với mình, những điều vĩ đại không bao giờ được hoàn thành bởi một cá nhân, mà bởi một tập thể cùng chí hướng.
+☕ **A Coffee & Tech Enthusiast:** Bắt đầu ngày mới bằng một ly cà phê sữa là thói quen không thể thiếu để kích hoạt tư duy logic của mình. Ngoài giờ code, mình là một người đam mê tự tay build PC hiệu năng cao và xả stress bằng các hoạt động thể thao như cầu lông, bóng đá, và gym.
 
-📮 **Reach out to me:** trungthinhnguyen.dev@gmail.com
+🤝 **Collaboration:** Mình luôn mở lòng với các cơ hội hợp tác, đặc biệt là các dự án sáng tạo và làm việc từ xa. Mình tin rằng những giải pháp vĩ đại luôn đến từ sự cộng hưởng của một tập thể gắn kết.
+
+📮 **Reach out to me:** trungthinh10063009@gmail.com
 
 ---
 
-### 🛠 My Tech Stack:
+### 🛠 My Tech Stack
+
+**Architecture & Core:**
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_Sliced_Design-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="FSD" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 📊 GitHub Stats:
+**Mobile & Web Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
+**State Management & UI/UX:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-5C4033?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngtrthinhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrthinhh&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngtrthinhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrthinhh&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrthinhh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrthinhh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <b>Connect with me:</b><br>
-  <a href="https://linkedin.com/in/trung-thịnh-nguyễn-b69b5326b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngtrthinhh" height="30" width="40" /></a>
-  <a href="https://fb.com/trung.thinh.58548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngtrthinhh" height="30" width="40" /></a>
+  <b>Let's connect:</b><br><br>
+  <a href="https://www.linkedin.com/in/ngtrthinhh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/trung.thinh.58548" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </div>
