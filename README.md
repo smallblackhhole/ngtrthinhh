@@ -19,7 +19,7 @@
 🤝 **Collaboration:** I am always open to collaborative opportunities, especially creative projects and remote work. I believe that great solutions always come from the synergy of a cohesive team.
 
 **Let's connect:**
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ngtrthinhh" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
