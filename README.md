@@ -18,9 +18,11 @@
 
 🤝 **Collaboration:** I am always open to collaborative opportunities, especially creative projects and remote work. I believe that great solutions always come from the synergy of a cohesive team.
 
-<p>
-  <b>Let's connect:</b><br><br>
-  <a href="https://www.linkedin.com/in/ngtrthinhh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/trung.thinh.56548/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ngtrthinhh/?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+<p align="center">
+  <b>Let's connect:</b>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ngtrthinhh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/trung.thinh.56548/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ngtrthinhh/?hl=en"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 </p>
 
 ### 🛠 My Tech Stack
