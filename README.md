@@ -71,6 +71,53 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+### 💻 Featured Projects
+
+#### 🏥 JBAAI (AI Healthcare App)
+*Role: Senior Software Engineer (Team Lead)*
+- **Description:** Hệ thống theo dõi sức khỏe toàn diện tích hợp phần cứng IoT (Smart rings/bands) qua custom Native Modules. Tích hợp AI Face Scan để phân tích hơn 20 chỉ số sức khỏe và AI Voice Assistant hỗ trợ đa ngôn ngữ. Quản lý toàn bộ hệ thống qua Web Admin Dashboard xây dựng từ đầu.
+- **Tech Stack:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Zustand-5C4033?style=flat-square" alt="Zustand" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  </p>
+
+#### 🛍️ DMEMBER (E-commerce & CRM App)
+*Role: React Native Developer*
+- **Description:** Nền tảng thương mại điện tử tích hợp hệ thống ERP và POS doanh nghiệp. Bao gồm ví điện tử tích hợp (MoMo, TikTok), logic tính phí vận chuyển động và biểu đồ báo cáo doanh thu tương tác.
+- **Tech Stack:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  </p>
+
+#### 💎 GEMASHO (Diamond Trading Platform)
+*Role: React Native Developer*
+- **Description:** Nền tảng giao dịch chuyên biệt với các tính năng lọc, phân loại và xác thực kim cương nâng cao. Giao diện (UI) và hiệu ứng (Animations) phức tạp được thiết kế hoàn toàn từ đầu cùng hệ thống đa ngôn ngữ.
+- **Tech Stack:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  </p>
+
+#### 🚀 Other Notable Projects
+- **YOBE, TEKNAILS, AZICAR & TAOZONE:** Quản lý kho qua mã vạch, map-based tracking, booking hệ thống và thương mại điện tử đa thuộc tính.
+- **Tech Stack:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
