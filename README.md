@@ -71,11 +71,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 💻 Featured Projects
 
-#### 🏥 JBAAI (AI Healthcare App)
-*Role: Senior Software Engineer (Team Lead)*
-- **Description:** Hệ thống theo dõi sức khỏe toàn diện tích hợp phần cứng IoT (Smart rings/bands) qua custom Native Modules. Tích hợp AI Face Scan để phân tích hơn 20 chỉ số sức khỏe và AI Voice Assistant hỗ trợ đa ngôn ngữ. Quản lý toàn bộ hệ thống qua Web Admin Dashboard xây dựng từ đầu.
+## 💻 Featured Projects
+
+### 🏥 JBAAI (AI Healthcare App)
+**Role:** Senior Software Engineer (Team Lead)
+- **Description:** A comprehensive health-tracking system integrating IoT hardware (Smart rings/bands) via custom Native Modules. Features an AI Face Scan to analyze 20+ health metrics and a multi-lingual AI Voice Assistant. The entire system is managed via a custom-built Web Admin Dashboard.
 - **Tech Stack:**
   <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -87,9 +88,9 @@
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   </p>
 
-#### 🛍️ DMEMBER (E-commerce & CRM App)
-*Role: React Native Developer*
-- **Description:** Nền tảng thương mại điện tử tích hợp hệ thống ERP và POS doanh nghiệp. Bao gồm ví điện tử tích hợp (MoMo, TikTok), logic tính phí vận chuyển động và biểu đồ báo cáo doanh thu tương tác.
+### 🛍️ DMEMBER (E-commerce & CRM App)
+**Role:** React Native Developer
+- **Description:** A robust e-commerce platform integrated with enterprise ERP and POS systems. It includes an in-app e-wallet (MoMo, TikTok integration), dynamic shipping fee calculation, and interactive revenue reporting charts.
 - **Tech Stack:**
   <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -98,9 +99,9 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
 
-#### 💎 GEMASHO (Diamond Trading Platform)
-*Role: React Native Developer*
-- **Description:** Nền tảng giao dịch chuyên biệt với các tính năng lọc, phân loại và xác thực kim cương nâng cao. Giao diện (UI) và hiệu ứng (Animations) phức tạp được thiết kế hoàn toàn từ đầu cùng hệ thống đa ngôn ngữ.
+### 💎 GEMASHO (Diamond Trading Platform)
+**Role:** React Native Developer
+- **Description:** A specialized trading platform featuring advanced filtering, sorting, and diamond verification. Complex UI and animations were built entirely from scratch, alongside a comprehensive multi-language system.
 - **Tech Stack:**
   <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -109,8 +110,8 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   </p>
 
-#### 🚀 Other Notable Projects
-- **YOBE, TEKNAILS, AZICAR & TAOZONE:** Quản lý kho qua mã vạch, map-based tracking, booking hệ thống và thương mại điện tử đa thuộc tính.
+### 🚀 Other Notable Projects
+- **YOBE, TEKNAILS, AZICAR & TAOZONE:** These applications feature barcode-based inventory management, map-based supplier tracking, service booking systems, and multi-attribute e-commerce models.
 - **Tech Stack:**
   <p align="left">
     <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
