@@ -120,14 +120,3 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngtrthinhh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrthinhh&layout=compact&theme=tokyonight&langs_count=6&v=1" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtrthinhh&theme=tokyonight&v=1" alt="GitHub Streak" />
-</p>
